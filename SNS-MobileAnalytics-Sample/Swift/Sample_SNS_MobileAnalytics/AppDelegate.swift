@@ -20,7 +20,7 @@ import AWSSNS
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-    let SNSPlatformApplicationArn = "YourSNSPlaatformApplicationArn"
+    let SNSPlatformApplicationArn = "YourSNSPlatformApplicationArn"
 
     var window: UIWindow?
 
